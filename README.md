@@ -15,4 +15,10 @@ Attacker's leader changes 8 cards out with the kitty
 
 # 3: Gameplay
 Each round, somebody leads a card - must follow suit
-Goal is for the Defenders to 
+Goal is for the Defenders to score 80 points
+Goal is for Attackers to prevent scoring 80 points
+
+If defenders win, they rank up
+If attackers win, they become defenders
+
+Random rules below:
